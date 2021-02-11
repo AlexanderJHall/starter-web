@@ -8,7 +8,7 @@ asdgasdg
 ## Introduction
 this is even more junk here
 ## Purpose
-
+To learn how to use git
 ## Deployment
 
-Sample website with plenty of files for demos
+A sample project... ignore
