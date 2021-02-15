@@ -12,3 +12,6 @@ To learn how to use git
 ## Deployment
 
 A sample project... ignore
+
+## Copyright
+dsgsdfg
