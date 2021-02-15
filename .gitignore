@@ -1,3 +1,4 @@
 *.pyc
 .favicon.ico
 /log
+*.orig
